@@ -1,0 +1,3 @@
+/home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/cmake-build-debug/CMakeFiles/estudos_strings.dir
+/home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

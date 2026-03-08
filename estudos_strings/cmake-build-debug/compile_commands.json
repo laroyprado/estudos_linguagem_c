@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/estudos_strings.dir/main.c.o -c /home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/main.c",
+  "file": "/home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/main.c",
+  "output": "/home/laroy/Documentos/projetos/estudos_linguagem_c/estudos_strings/cmake-build-debug/CMakeFiles/estudos_strings.dir/main.c.o"
+}
+]
